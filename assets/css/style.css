@@ -38,6 +38,9 @@ h2{
     border-color: #dddddd;
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 70px;
+    top: -35px;
+    position: relative;
 }
 
 footer{
@@ -59,6 +62,8 @@ footer{
     margin-right: 10%;
     line-height: 30px;
     padding: 20px;
+    color: #777777; 
+
 }
 
 #profilepic{
@@ -72,4 +77,18 @@ footer{
     position: relative;
     top: -125%;
     left: -10%;
+}
+
+#aboutlink, #portfoliolink, #contactlink{
+    color: #777777; 
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#copyright{
+    color: #ffffff;
+    margin-left: 50%;
+    top: 50%;
+    position: relative;
+    font-size: 75%;
 }
