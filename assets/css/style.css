@@ -50,7 +50,8 @@ footer{
     width: 100%;
     margin: 0 auto;
     background-color: #666666;
-
+    border-top: solid;
+    border-color: #4aaaa5;
 }
 
 #about{
