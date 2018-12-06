@@ -52,9 +52,10 @@ footer{
     background-color: #666666;
     border-top: solid;
     border-color: #4aaaa5;
+    border-width: 5px;
 }
 
-#about{
+#container{
     background-color: #ffffff;
     border-style: ridge;
     border-color: #dddddd;
@@ -92,4 +93,5 @@ footer{
     top: 50%;
     position: relative;
     font-size: 75%;
+    
 }
